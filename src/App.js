@@ -41,7 +41,7 @@ const handleSave =(e)=>{
   if(lastName === '')
     error+='LastName is Required, ';
   if(age <= 0)
-    error+='Age is Required, ';
+    error+='age is Required, ';
 
 if(error === ''){
  e.preventDefault();
