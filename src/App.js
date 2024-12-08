@@ -106,7 +106,6 @@ return (
     <table className='table table-hover'>
       <thead>
         <tr>
-          <td>SL. No</td>
           <td>ID</td>
           <td>FisrName</td>
           <td>lastname</td>
